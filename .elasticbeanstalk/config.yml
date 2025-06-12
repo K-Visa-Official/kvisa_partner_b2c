@@ -1,6 +1,8 @@
 branch-defaults:
   default:
     environment: Kvisapartner-production
+  main:
+    environment: partner-b2c
 environment-defaults:
   Kvisapartner-production:
     branch: null
